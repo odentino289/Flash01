@@ -22,7 +22,7 @@
 <header>
     <h1>SITE FLASH</h1>
     <p>Ton site pro en 48h</p>
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TON_BOUTON_ID" class="button">Commander via PayPal</a>
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=@dentiomar" class="button">Commander via PayPal</a>
 </header>
 
 <main>
